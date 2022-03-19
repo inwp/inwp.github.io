@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Inogen Limbu",
+  "short_name": "Inogen Limbu",
+  "start_url": "/",
+  "scope": "/",
+  "dir": "ltr",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Inogen Limbu app",
+  "icons": [{
+    "src": "images/icons/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "images/icons/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "images/icons/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "images/icons/167.png",
+    "sizes": "167x167",
+    "type": "image/png"
+  }, {
+    "src": "images/icons/196.png",
+    "sizes": "196x196",
+    "type": "image/png"
+  }]
+}
